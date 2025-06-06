@@ -42,12 +42,12 @@ cd algotrader
  algotrader/Sctipts/activate
 ```
 
-### 2. Install Dependencies
+### 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
-### 3. Run the Applications
+### 4. Run the Applications
 
   ```bash
   python main.py
