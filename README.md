@@ -26,6 +26,8 @@ algotrader/
 ├── requirements.txt              # Required Python packages
 ├── RILL.csv                      # Sample stock data of Reliance Industries provided for historical backtesting.
 
+```
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
