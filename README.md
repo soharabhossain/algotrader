@@ -21,7 +21,7 @@ A toy Python project demonstrating a simple LLM-based agent using OpenAI API. In
 algotrader/
 ├── algotrader.py                 # Module containing the AlgoTrader class implementing backtesting and method to display the final results  
 ├── strategy.py                   # Module containing the Strategy base class
-├── river_stratery.py             # Module containing specific strategy, e.g. online ML algorithms from the river library
+├── river_stratery.py             # Module containing specific strategy, e.g. online ML algorithms from the river library or Deep Learning strategies based on LSTM
 ├── main.py                       # Script to run the application
 ├── requirements.txt              # Required Python packages
 ├── RILL.csv                      # Sample stock data of Reliance Industries provided for historical backtesting.
